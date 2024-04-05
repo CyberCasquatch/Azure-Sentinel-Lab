@@ -23,7 +23,6 @@ Also thanks to Nirakar Sapkota for the query script.
 <p align="center">
 In Azure; Creating our honeypot VM <br/>
 <img src="1 - Creating Virtual Machine.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
-<img src="https://github.com/vonagle/ActiveDirectoryLab/blob/main/jmadakorhomelab.4.PNG" height="80%" width="80%" alt="DC and Client Walkthrough"/>
 <br />
 <br />
 In Azure; Creating our Log Analytics Work Space <br/>
